@@ -1,3 +1,22 @@
 .web_list {
-    color:pink;
+    color: darkred;
 }
+
+.mediaCard {
+    text-align: center;
+    box-sizing: border-box;    
+    border: 2px solid;
+}
+
+html, body, #root, .room {
+    height: 100%;
+    margin: 0;
+  }
+  .lit {
+    background-color: white;
+    color: black;
+  }
+  .dark {
+    background-color: black;
+    color: white;
+  }

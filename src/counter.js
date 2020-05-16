@@ -1,6 +1,7 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import { createStore } from 'redux'
+import { Provider } from 'react-redux';
 
 const initialState = {
   count: 0
